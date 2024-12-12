@@ -40,3 +40,8 @@ In the right side make sure to enable OpenMP
 
 ---
 
+![image](https://github.com/user-attachments/assets/e33650fa-fcb4-4f2f-85d7-35a1c62712cd)
+
+---
+
+
