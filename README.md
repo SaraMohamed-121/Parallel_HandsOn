@@ -32,6 +32,9 @@ In the right side make sure to enable OpenMP
 
 ---
 
+![image](https://github.com/user-attachments/assets/43aa0495-d3ee-4825-8ae5-10a9f7bff879)
+
+---
 
 ![image](https://github.com/user-attachments/assets/681a53a6-f704-4e9d-b334-dfbd165e2bea)
 
