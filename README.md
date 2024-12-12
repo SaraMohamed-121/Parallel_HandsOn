@@ -44,4 +44,8 @@ In the right side make sure to enable OpenMP
 
 ---
 
+![image](https://github.com/user-attachments/assets/c0bfb173-fa51-4687-a592-2f6235b656f0)
+
+---
+
 
