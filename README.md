@@ -15,3 +15,10 @@ In the right side make sure to enable OpenMP
 ---
 
 ![image](https://github.com/user-attachments/assets/f5ff8bf1-1e5d-40e6-9270-80448ff26bcb)
+
+---
+
+![image](https://github.com/user-attachments/assets/4c12da13-d28b-4c88-a639-737e291012d3)
+
+
+---
