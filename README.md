@@ -1,9 +1,28 @@
-Solution Explorer right click on the project node and choose Properties.
-Then expand C/C++ node
-and choose Language node.
-In the right side make sure to enable OpenMP 
+## Enabling OpenMP in Visual Studio
+
+To enable OpenMP support in your Visual Studio project, follow these steps:
+
+1. **Open the Solution Explorer:**
+   - Right-click on the project node in the **Solution Explorer**.
+
+2. **Access Project Properties:**
+   - Select **Properties** from the context menu.
+
+3. **Expand the C/C++ Node:**
+   - In the left-hand pane of the **Property Pages** window, expand the **C/C++** section.
+
+4. **Select the Language Node:**
+   - Under the **C/C++** section, click on **Language**.
+
+5. **Enable OpenMP Support:**
+   - In the right-hand pane, locate the **OpenMP Support** option.
+   - Set it to **Yes** from the dropdown menu.
+
+6. **Apply and Save Changes:**
+   - Click **Apply**, then **OK** to save the changes.
 
 ---
+
 
 ![image](https://github.com/user-attachments/assets/d73980e2-ffcb-42a1-82b2-25aa75d2da69)
 
