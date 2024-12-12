@@ -1,1 +1,9 @@
-![image](https://github.com/user-attachments/assets/f99cbded-5b9d-46f6-a001-7358ed3190de)
+Solution Explorer right click on the project node and choose Properties.
+Then expand C/C++ node
+and choose Language node.
+In the right side make sure to enable OpenMP 
+
+---
+
+
+![image](https://github.com/user-attachments/assets/d73980e2-ffcb-42a1-82b2-25aa75d2da69)
