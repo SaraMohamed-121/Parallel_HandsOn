@@ -26,3 +26,31 @@ int main()
 		
 	}
 }
+
+// #include<omp.h>
+// #include<iostream>
+// #include<stdlib.h>
+// #include<time.h>
+// #define N 10
+// using namespace std;
+// int main() {
+// 	int a[N];
+// 	srand(time(NULL));
+// 	int i;
+// 	for (i = 0; i < N; i++) {
+// 		a[i] = rand() % 100 + 1; ;
+// 		printf("a[%d]  = %d \n", i, a[i]);
+// 	}
+
+// #pragma omp parallel 
+// 	{
+// #pragma omp for
+// 		for (i = 0; i < N; i++) {
+// 			if (a[i] == 99) {
+// 				printf("a[i] == 99 \n");
+// 			}
+// 		}
+// 	}
+// 	return 0;
+// }
+
