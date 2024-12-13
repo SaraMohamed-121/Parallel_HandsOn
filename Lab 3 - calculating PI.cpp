@@ -20,3 +20,35 @@ int main(int argc, char* argv[])
 	}
 	printf("PI = %lf\n", (sum / (double)npoints) * 4.0);
 }
+
+
+// #include<omp.h>
+// #include<iostream>
+// #include<time.h>
+// #include<stdlib.h>
+// #define N 1000000
+// using namespace std;
+// int main() {
+// 	omp_set_num_threads(8);
+// 	srand(time(NULL));
+// 	double x_point, y_poiny, Ninner = 0;
+// 	int i;
+	
+// #pragma omp parallel private(i) reduction(+:Ninner)
+// 	{
+// 		#pragma omp for
+// 		for (int i = 0; i < N; i++)
+// 		{
+// 			x_point = (double)(rand() + 1) / RAND_MAX;//0 to 1
+// 			y_poiny = (double)(rand() + 1) / RAND_MAX;
+// 			if (((x_point - 0.5) * (x_point - 0.5)) + ((y_poiny - 0.5) * (y_poiny - 0.5)) <= 0.25) {
+// 				Ninner++;
+// 			}
+// 		}
+
+// 	}
+// 	//printf("Ninner %f \n", Ninner);
+// 	printf("pi %f \n", (Ninner / N) * 4.0);
+// 	return 0;
+// }
+
