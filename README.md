@@ -73,3 +73,5 @@ To enable OpenMP support in your Visual Studio project, follow these steps:
 
 ![image](https://github.com/user-attachments/assets/c6f9937d-32dc-4a60-ad7c-28e741f3cb56)
 
+
+#
